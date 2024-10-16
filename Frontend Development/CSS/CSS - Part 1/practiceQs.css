@@ -1,0 +1,27 @@
+h2{
+    color: orange;
+}
+
+button{
+    color: white;
+    background-color: blue;
+}
+
+p{
+    background-color: black;
+    color: white;
+}
+
+h1{    
+    /* named colors system */
+        /* color: chocolate; */
+
+    /* RGB color system */
+        /* color: rgb(255, 0, 0); */
+        /* color: rgb(0, 255, 0);
+        color: rgb(0, 0, 255); */
+
+    /* hex color system */
+        /* color: #0000ff; */
+        color: #00ff00; 
+}

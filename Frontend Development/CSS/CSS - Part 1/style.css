@@ -1,0 +1,14 @@
+h1{
+    color: rgb(34, 28, 217);
+    background-color: palegreen;
+}
+
+p{
+    color: darkmagenta;
+    background-color: rgb(197, 179, 214);
+}
+
+button{
+    color: indianred;
+    background-color: darkkhaki;
+}
